@@ -1,0 +1,14 @@
+{
+  "name": "jarvis-voice-assistant",
+  "version": "1.0.0",
+  "description": "Jarvis voice assistant - minimal web demo with speech recognition and TTS using OpenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
